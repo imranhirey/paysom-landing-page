@@ -121,7 +121,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                       <a className="button button-primary button-wide-mobile button-sm" href='http://localhost:3000/register' >LOGIN</a>
+                       <a className="button button-primary button-wide-mobile button-sm" href='' >Download the App</a>
                       </li>
                     </ul>}
                 </div>

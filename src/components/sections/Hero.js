@@ -71,11 +71,11 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile  href="http://localhost:3000/register">
+                  <Button tag="a" color="primary" wideMobile  href="http://144.126.252.62:3002">
                    
                     Bussiness Account
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/imranhirey">
+                  <Button tag="a" color="dark" wideMobile href="http://144.126.252.62:3002">
                   Personal Account
                     </Button>
                 </ButtonGroup>
